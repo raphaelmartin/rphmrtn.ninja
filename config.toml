@@ -2,5 +2,3 @@ baseURL = "https://rphmrtn.ninja/"
 languageCode = "fr-fr"
 title = "Raphaël Martin"
 theme = "strange-case"
-permalinks:
-  post: /:month/:year/:title/
