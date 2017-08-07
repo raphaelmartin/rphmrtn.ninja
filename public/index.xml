@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphaël Martin</title>
+    <link>https://rphmrtn.ninja/</link>
+    <description>Recent content on Raphaël Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 07 Aug 2017 17:24:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://rphmrtn.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ceci Est Un Post</title>
+      <link>https://rphmrtn.ninja/post/ceci-est-un-post/</link>
+      <pubDate>Mon, 07 Aug 2017 17:24:20 +0200</pubDate>
+      
+      <guid>https://rphmrtn.ninja/post/ceci-est-un-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good To Great</title>
+      <link>https://rphmrtn.ninja/post/good-to-great/</link>
+      <pubDate>Fri, 21 Jul 2017 09:04:49 -0500</pubDate>
+      
+      <guid>https://rphmrtn.ninja/post/good-to-great/</guid>
+      <description>Bonjour. Je suis raphaël. Comment allez-vous? Et si on jouait?</description>
+    </item>
+    
+  </channel>
+</rss>
