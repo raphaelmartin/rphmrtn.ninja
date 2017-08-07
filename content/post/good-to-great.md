@@ -6,3 +6,5 @@ draft: false
 
 Bonjour.
 Je suis raphaël.
+Comment allez-vous?
+Et si on jouait?
