@@ -1,4 +1,5 @@
-baseURL = "http://rphmrtn.ninja/"
+baseURL = "https://rphmrtn.ninja/"
 languageCode = "fr-fr"
 title = "Raphaël Martin"
-theme = "hugo-classic"
+theme = "ananke"
+
