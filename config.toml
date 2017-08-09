@@ -2,3 +2,5 @@ baseURL = "https://rphmrtn.ninja/"
 languageCode = "fr-fr"
 title = "Raphaël Martin"
 theme = "after-dark"
+[blackfriday]
+  extensions = ["hardLineBreak"]
