@@ -8,15 +8,8 @@ title: 9aout
 toc: false
 
 ---
-Ce fut une longue journée.
+<p>Ce fut une longue journée.<br />
 
-Test d'espace.
+Test d'espace.<br />
 
-  Lalala
-  
-  
-
-	Lalallalalal
-    
-    
-    bref.
+Lalal<p>
