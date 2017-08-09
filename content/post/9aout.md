@@ -1,7 +1,7 @@
 ---
 title: 9aout
 date: 2017-08-09 20:44:37 +0200
-description: Thank you for choosing After Dark.
+description: ''
 toc: false
 categories: []
 tags: []
