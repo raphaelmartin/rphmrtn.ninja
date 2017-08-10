@@ -1,6 +1,17 @@
 baseURL = "https://rphmrtn.ninja/"
 languageCode = "fr-fr"
-title = "Raphaël Martin"
+title = "Raphaël — Martin — 24 ans"
+description = "étudiant en CDI"
 theme = "after-dark"
 [blackfriday]
   extensions = ["hardLineBreak"]
+[[menu.main]]
+  name = "accueil"
+  weight = 1
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "posts"
+  weight = 2
+  identifier = "post"
+  url = "/post/"
